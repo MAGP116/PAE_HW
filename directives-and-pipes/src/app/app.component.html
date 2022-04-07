@@ -1,0 +1,14 @@
+<app-alert 
+  *ngFor="let type of types; let i = index"
+  [content]="'Hellow'"
+  [type]="type"
+  (clicked)="onAlertClicked(i)"
+
+></app-alert>
+<br>
+<app-alert 
+  *ngFor = "let type of types; let i = index" 
+  [content]="type+': '+((counts[i] > 3)?(counts[i] | toChar):'' )"
+  [type]="type">
+    
+</app-alert>

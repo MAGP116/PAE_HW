@@ -1,0 +1,137 @@
+
+.danger {
+    background-color: #f8d7da;
+    border-color: #a14e55;
+    padding: .1em;
+    margin: 1rem;
+    border-radius: 1em;
+}
+
+.danger p {
+    color: #a14e55;
+    padding-left: .1em;
+    margin: 1em;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: Arial;
+}
+
+.dark {
+    background-color: #d3d3d4;
+    border-color: #444445;
+    padding: .1em;
+    margin: 1rem;
+    border-radius: 1em;
+}
+
+.dark p {
+    color: #444445;
+    padding-left: .1em;
+    margin: 1em;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: Arial;
+}
+
+.info {
+    background-color: #cff4fc;
+    border-color: #266a78;
+    padding: .1em;
+    margin: 1rem;
+    border-radius: 1em;
+}
+
+.info p {
+    color: #266a78;
+    padding-left: .1em;
+    margin: 1em;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: Arial;
+}
+
+
+.light {
+    background-color: #fefefe;
+    border-color: #767777;
+    padding: .1em;
+    margin: 1rem;
+    border-radius: 1em;
+}
+
+.light p {
+    color: #767777;
+    padding-left: .1em;
+    margin: 1em;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: Arial;
+}
+
+.primary {
+    background-color: #cfe2ff;
+    border-color: #1a50a1;
+    padding: .1em;
+    margin: 1rem;
+    border-radius: 1em;
+}
+
+.primary p {
+    color: #1a50a1;
+    padding-left: .1em;
+    margin: 1em;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: Arial;
+}
+
+.secondary {
+    background-color: #e2e3e5;
+    border-color: #54595d;
+    padding: .1em;
+    margin: 1rem;
+    border-radius: 1em;
+}
+
+.secondary p {
+    color: #54595d;
+    padding-left: .1em;
+    margin: 1em;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: Arial;
+}
+
+.success {
+    background-color: #d1e7dd;
+    border-color: #356f54;
+    padding: .1em;
+    margin: 1rem;
+    border-radius: 1em;
+}
+
+.success p {
+    color: #356f54;
+    padding-left: .1em;
+    margin: 1em;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: Arial;
+}
+
+.warning {
+    background-color: #fffecd;
+    border-color: #664d0355;
+    padding: .1em;
+    margin: 1rem;
+    border-radius: 1em;
+}
+
+.warning  p {
+    color: #664d03;
+    padding-left: .1em;
+    margin: 1em;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: Arial;
+}
