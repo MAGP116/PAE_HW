@@ -1,0 +1,7 @@
+<button mat-raised-button (click)="todoService.getTodo()"><h1>get todo</h1></button>
+<mat-card *ngFor =" let todo of todoService.todos; let i = index;">
+    <mat-card-title>Todo {{i + 1}}</mat-card-title>
+    <mat-card-subtitle>{{todo}}</mat-card-subtitle>
+</mat-card>
+    
+    
